@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/saas-react/static/css/main.96c55135.css",
+    "main.js": "/saas-react/static/js/main.cbede8e6.js",
+    "static/media/hands.png": "/saas-react/static/media/hands.a651b787ce2cf6cf1fdf.png",
+    "static/media/second-section.png": "/saas-react/static/media/second-section.26336f79947e0167fd92.png",
+    "static/media/first.png": "/saas-react/static/media/first.83b9c2e25225e518b305.png",
+    "static/media/first-section.png": "/saas-react/static/media/first-section.151d0a3a9e6c54b0f731.png",
+    "static/media/left.png": "/saas-react/static/media/left.d60a0f053d3534f646a3.png",
+    "static/media/second.png": "/saas-react/static/media/second.6dca3dcebdda3de54f69.png",
+    "static/media/third.png": "/saas-react/static/media/third.26109a9443833f972419.png",
+    "static/media/fourth.png": "/saas-react/static/media/fourth.82f8942ade11b6d3b2ac.png",
+    "index.html": "/saas-react/index.html",
+    "main.96c55135.css.map": "/saas-react/static/css/main.96c55135.css.map",
+    "main.cbede8e6.js.map": "/saas-react/static/js/main.cbede8e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96c55135.css",
+    "static/js/main.cbede8e6.js"
+  ]
+}
